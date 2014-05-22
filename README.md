@@ -3,7 +3,7 @@ Erbase 2014 – PHP Coding Dōjō
 
 Sobre
 ------
-Encontro realizado no dia 21/05 na UEFS durante o Erbase 2014. Os slides da apresentação poderão ser baixados em breve.
+Encontro realizado no dia 21/05 na UEFS durante o Erbase 2014. Os slides da apresentação podem ser baixados [aqui](https://speakerdeck.com/jonataa/erbase-2014-php-coding-dojo).
 
 Requisitos Mínimos
 -------------------
