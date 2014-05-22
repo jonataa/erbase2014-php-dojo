@@ -22,6 +22,7 @@ Executar os testes
 Digitar os comandos abaixo na linha de comando.
 ```shell
 cd erbase2014-php-dojo/
+composer install
 ./vendor/bin/phpunit tests/
 ```
 
