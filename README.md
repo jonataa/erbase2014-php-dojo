@@ -12,13 +12,14 @@ Requisitos Mínimos
 
 Clonar o Repositório
 --------------------
-Abrir o terminal e digitar os comandos abaixo:
+Abrir o terminal e digitar os comandos abaixo.
 ```shell
 git clone https://github.com/jonataa/erbase2014-php-dojo.git
 ```
 
-Como executar os testes
+Executar os testes
 -----------------------
+Digitar os comandos abaixo na linha de comando.
 ```shell
 cd erbase2014-php-dojo/
 ./vendor/bin/phpunit tests/
