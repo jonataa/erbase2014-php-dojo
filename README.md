@@ -27,6 +27,20 @@ composer install
 ./vendor/bin/phpunit tests/
 ```
 
+Resultado esperado
+------------------
+```shell
+PHPUnit 4.1.0 by Sebastian Bergmann.
+
+Configuration read from /Users/jweber/Dropbox/ERBASE2014/dojos/phpunit.xml
+
+..................
+
+Time: 122 ms, Memory: 5.50Mb
+
+OK (18 tests, 22 assertions)
+```
+
 Créditos
 --------
 * Calebe Oliveira <becalebe@gmail.com>
