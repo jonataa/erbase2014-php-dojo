@@ -8,7 +8,8 @@ Encontro realizado no dia 21/05 na UEFS durante o Erbase 2014. Os slides da apre
 Requisitos Mínimos
 -------------------
 * PHP >= 5.4 [Getting Started](http://www.phptherightway.com/#getting_started)
-* Composer [Download](http://getcomposer.org/)
+* Composer [Download](https://getcomposer.org/download/)
+* Git [Download](http://git-scm.com/downloads)
 
 Clonar o Repositório
 --------------------
