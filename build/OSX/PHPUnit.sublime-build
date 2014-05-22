@@ -1,0 +1,3 @@
+{	
+	"shell_cmd": "phpunit -c ../phpunit.xml $file"	
+}
