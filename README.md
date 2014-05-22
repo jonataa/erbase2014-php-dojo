@@ -32,7 +32,7 @@ Resultado esperado
 ```shell
 PHPUnit 4.1.0 by Sebastian Bergmann.
 
-Configuration read from /Users/jweber/Dropbox/ERBASE2014/dojos/phpunit.xml
+Configuration read from /path/to/your/project/erbase2014-php-dojo/phpunit.xml
 
 ..................
 
